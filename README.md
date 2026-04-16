@@ -56,7 +56,7 @@ Get the latest tarball & install:
 
 Download latest zip archive.
 
-https://github.com/Aghababaei/PhD-Seeker/archive/master.zip
+https://github.com/archna1212/PHD-OPENINGS/archive/master.zip
 
 Decompress it, and run the following command in root directory of `PhD-Seeker`
 
