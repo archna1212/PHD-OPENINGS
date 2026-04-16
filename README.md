@@ -34,7 +34,7 @@ Installation
 
 You can get latest stable changes from github server:
 
-    $ git clone https://github.com/Aghababaei/PhD-Seeker.git
+    $ git clone https://github.com/archna1212/PHD-OPENINGS.git
     $ cd PhD-Seeker
     $ python setup.py install
 
@@ -46,7 +46,7 @@ You can download the latest tarball.
 
 Get the latest tarball & install:
 
-    $ wget -O phdseeker-master.tar.gz https://github.com/Aghababaei/PhD-Seeker/archive/master.tar.gz
+    $ wget -O phdseeker-master.tar.gz https://github.com/archna1212/PHD-OPENINGS/archive/master.tar.gz
     $ tar xvzf phdseeker-master.tar.gz && cd PhD-Seeker-main
     $ python setup.py install
 
