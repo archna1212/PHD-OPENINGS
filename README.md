@@ -1,15 +1,5 @@
 # PhD-Seeker 🎓
 
-[![PyPI](https://img.shields.io/pypi/v/phdseeker?style=social)](https://pypi.org/project/phdseeker/)
-[![code size](https://img.shields.io/github/languages/code-size/Aghababaei/PhD-Seeker?style=social)](https://github.com/Aghababaei/PhD-Seeker/archive/master.zip)
-[![GitHub forks](https://img.shields.io/github/forks/Aghababaei/PhD-Seeker?style=social)](https://github.com/Aghababaei/PhD-Seeker/network/members)
-[![GitHub license](https://img.shields.io/github/license/Aghababaei/PhD-Seeker?style=social)](https://github.com/Aghababaei/PhD-Seeker/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Aghababaei/PhD-Seeker?style=social)](https://github.com/Aghababaei/PhD-Seeker/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/Aghababaei/PhD-Seeker?style=social)](https://github.com/Aghababaei/PhD-Seeker/issues)
-[![Downloads](https://pepy.tech/badge/phdseeker)](https://pepy.tech/project/phdseeker)
-[![Downloads](https://pepy.tech/badge/phdseeker/month)](https://pepy.tech/project/phdseeker)
-
-
 PhD Seeker is a python web scraper to search for fully funded doctorate positions, advertised on well-known academic position websites.
 
 If nowadays you are actively seeking a PhD position to pursue your studies, you must have realized that the process of searching for relevant vacancies is not straight forward. Visiting a large number of position advertising websites and encountering irrelevant commercials are two of the most common problems.
@@ -176,8 +166,3 @@ Elapsed time is 3.87
 ```
 
 
-## Contributors
-
-<a href="https://github.com/Aghababaei/PhD-Seeker/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Aghababaei/PhD-Seeker" />
-</a>
